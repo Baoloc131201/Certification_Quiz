@@ -7,7 +7,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import TodoPage from './pages/TodoPage';
 import QuizApp from './pages/QuizApp';
-import UseEffect from './learnReact/useEffect';
 import UseMemo from './learnReact/UseMemo';
 import WordQuizImporter from './pages/WordQuizImporter';
 
